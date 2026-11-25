@@ -1,0 +1,17 @@
+{
+  "skill_name": "data-visualization",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Build a dashboard showing weekly conversion rates by channel.",
+      "expected_output": "Define the denominator, validate a fixture and reconcile each plotted value to documented aggregation.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "A chart shows zero conversion in a week with no traffic.",
+      "expected_output": "Distinguish an undefined rate from a true zero and adjust the display.",
+      "files": []
+    }
+  ]
+}

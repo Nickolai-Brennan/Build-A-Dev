@@ -1,0 +1,17 @@
+{
+  "skill_name": "storybook",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Add stories for a dialog with an async save button.",
+      "expected_output": "Show initial, saving and error states and exercise the interaction.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "A story passes alone but fails in the whole suite.",
+      "expected_output": "Identify leaked state, shared data, or missing mock cleanup.",
+      "files": []
+    }
+  ]
+}

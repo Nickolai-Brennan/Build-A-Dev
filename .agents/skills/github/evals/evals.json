@@ -1,0 +1,17 @@
+{
+  "skill_name": "github",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Create a PR to enable lint checks on pull requests.",
+      "expected_output": "Use the existing scripts and a branch, and report the resulting PR and check state.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "An Actions workflow fails only on forked PRs.",
+      "expected_output": "Inspect event context and available permissions without exposing secrets.",
+      "files": []
+    }
+  ]
+}

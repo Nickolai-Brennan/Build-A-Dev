@@ -1,0 +1,17 @@
+{
+  "skill_name": "neo4j",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Build a graph of authors and books with repeatable imports.",
+      "expected_output": "Model stable keys and show that importing twice preserves counts.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "A variable-length Neo4j traversal is slow and returns duplicates.",
+      "expected_output": "Bound traversal and compare plans and result cardinality.",
+      "files": []
+    }
+  ]
+}

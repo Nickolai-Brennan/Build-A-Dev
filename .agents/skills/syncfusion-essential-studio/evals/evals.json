@@ -1,0 +1,17 @@
+{
+  "skill_name": "syncfusion-essential-studio",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Add sorting and paging to an Essential JS 2 React grid.",
+      "expected_output": "Wire the required modules and verify events against the actual data mode.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "A Syncfusion grid renders without styles after an upgrade.",
+      "expected_output": "Check theme imports and version alignment, then verify rendering.",
+      "files": []
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "skill_name": "taipy",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Build a Taipy dashboard with a filter and scenario submit action.",
+      "expected_output": "Keep session state isolated and show scenario progress and errors.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Submitting twice creates inconsistent results.",
+      "expected_output": "Check job identity, state ownership and how results are assigned.",
+      "files": []
+    }
+  ]
+}

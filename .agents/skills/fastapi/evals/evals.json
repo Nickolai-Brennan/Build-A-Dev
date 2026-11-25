@@ -1,0 +1,17 @@
+{
+  "skill_name": "fastapi",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Add pagination to a FastAPI product list.",
+      "expected_output": "Use validated parameters and a typed response consistent with the API.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "A FastAPI endpoint silently returns a different response shape. Review it.",
+      "expected_output": "Restore or explicitly version the contract and exercise the route.",
+      "files": []
+    }
+  ]
+}

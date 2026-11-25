@@ -1,0 +1,17 @@
+{
+  "skill_name": "authzed",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Model document viewers and editors in tenant-scoped SpiceDB.",
+      "expected_output": "Deliver schema, tuples, and allow/deny examples including cross-tenant denial.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "A user still sees a document immediately after access is revoked.",
+      "expected_output": "Check relationship deletion and read consistency with a regression case.",
+      "files": []
+    }
+  ]
+}

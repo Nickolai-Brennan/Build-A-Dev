@@ -1,0 +1,17 @@
+{
+  "skill_name": "canva",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Prepare a square Canva design and export it.",
+      "expected_output": "Use the requested dimensions and verify the resulting export.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Build a website feature that imports Canva assets.",
+      "expected_output": "Select the supported external integration surface and validate authorization without leaking credentials.",
+      "files": []
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "skill_name": "nodeboxjs",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Create a Sandpack playground that runs a Node.js example in-browser.",
+      "expected_output": "Select the Nodebox-backed runtime and verify preview or console output from an edit.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Create a NodeBox Live generative art graph.",
+      "expected_output": "Resolve the different product identity and avoid applying Sandpack instructions.",
+      "files": []
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "skill_name": "react",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "A React results list resets selection whenever its filter changes. Fix it.",
+      "expected_output": "Keep identity stable and preserve selection across a reorder.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "A fetch can finish after the filter has changed. Review the effect.",
+      "expected_output": "Handle stale results and cleanup or use the existing data-fetching abstraction.",
+      "files": []
+    }
+  ]
+}
