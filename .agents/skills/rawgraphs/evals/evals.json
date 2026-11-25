@@ -1,0 +1,17 @@
+{
+  "skill_name": "rawgraphs",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Design a RAWGraphs alluvial visualization for user journey transitions.",
+      "expected_output": "Map stages, flow categories and weights, then reconcile aggregate flow totals.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "The chart flow totals are doubled.",
+      "expected_output": "Find duplicated rows or aggregation mismatch and document the corrected input.",
+      "files": []
+    }
+  ]
+}

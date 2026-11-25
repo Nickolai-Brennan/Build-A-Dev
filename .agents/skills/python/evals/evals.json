@@ -1,0 +1,17 @@
+{
+  "skill_name": "python",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Add a CSV-import CLI to an existing Python package.",
+      "expected_output": "Use the existing packaging convention and make malformed input a clear CLI failure.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "A file is missing when a Python CLI starts. Review its behavior.",
+      "expected_output": "Surface an actionable error and nonzero exit instead of silent success.",
+      "files": []
+    }
+  ]
+}

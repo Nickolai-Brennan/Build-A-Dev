@@ -1,0 +1,17 @@
+{
+  "skill_name": "vercel",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "A Vercel monorepo preview builds the wrong app.",
+      "expected_output": "Check the project root, build settings, and preview evidence.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "A value exists in Production but is missing in Preview.",
+      "expected_output": "Inspect environment scope without printing the value.",
+      "files": []
+    }
+  ]
+}

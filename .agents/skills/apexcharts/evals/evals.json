@@ -1,0 +1,17 @@
+{
+  "skill_name": "apexcharts",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Build an ApexCharts timeline for daily counts with skipped days.",
+      "expected_output": "Use consistent time encoding and preserve missing versus zero.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "An ApexCharts widget breaks during server rendering.",
+      "expected_output": "Put browser-dependent rendering in the appropriate client boundary and verify the build.",
+      "files": []
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "skill_name": "embeddable",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Embed an account usage dashboard into a multi-tenant app.",
+      "expected_output": "Define the measure and verify filter and tenant isolation in preview.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "A customer embed shows blank totals after filtering.",
+      "expected_output": "Trace component inputs and model grain, and distinguish no data from a failed query.",
+      "files": []
+    }
+  ]
+}

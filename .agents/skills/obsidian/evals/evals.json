@@ -1,0 +1,17 @@
+{
+  "skill_name": "obsidian",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Add an Obsidian plugin command that creates a linked note.",
+      "expected_output": "Respect vault paths and link conventions, and verify in a test vault.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "The plugin fires twice after reload. Review the event lifecycle.",
+      "expected_output": "Find duplicate registrations or missing cleanup and verify reload behavior.",
+      "files": []
+    }
+  ]
+}

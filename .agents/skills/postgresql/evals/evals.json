@@ -1,0 +1,17 @@
+{
+  "skill_name": "postgresql",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Add a unique business key to a PostgreSQL table that may contain duplicates.",
+      "expected_output": "Detect existing duplicates and plan a compatible migration.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Review a slow UPDATE without executing it.",
+      "expected_output": "Inspect a nonexecuting plan and identify what evidence is still needed.",
+      "files": []
+    }
+  ]
+}
